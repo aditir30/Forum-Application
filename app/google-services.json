@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22224560104",
+    "project_id": "itcs5180-hw05",
+    "storage_bucket": "itcs5180-hw05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22224560104:android:2f6c81c736c927b8204e5d",
+        "android_client_info": {
+          "package_name": "com.example.hw05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22224560104-q4en0vf0k2vrsl28dcd24veccfam42pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb1BSiICsuXJkzGnxNHBMRsDBfsscUJuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22224560104-q4en0vf0k2vrsl28dcd24veccfam42pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

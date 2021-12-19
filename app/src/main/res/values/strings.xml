@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HW05</string>
+    <string name="Label_Login">Login</string>
+    <string name="label_Email">Email</string>
+    <string name="Label_Password">Password</string>
+    <string name="Label_Cancel">Cancel</string>
+    <string name="Label_Logout">Logout</string>
+    <string name="Label_Submit">Submit</string>
+    <string name="Label_CreateNewAccount">Create New Account</string>
+    <string name="Title_CreateNewAccount">Create New Account</string>
+    <string name="Title_Forums">Forums</string>
+    <string name="Title_Forum">Forum</string>
+    <string name="Hint_FullName">Full Name</string>
+    <string name="Label_NewForum">New Forum</string>
+    <string name="Title_NewForum">New Forum</string>
+    <string name="Label_Pipe">|</string>
+    <string name="CommentsLabel">Comments</string>
+    <string name="hint_writeComment">Write Comment</string>
+    <string name="Label_ForumTitle">Forum Title</string>
+    <string name="Label_ForumDescription">Forum Description</string>
+    <string name="Zero_CommentCount">0</string>
+    <string name="label_Post">Post</string>
+</resources>
