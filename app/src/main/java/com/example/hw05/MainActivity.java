@@ -1,8 +1,3 @@
-/*
- Assignment : HW 05
- File Name : MainActivity.java
- Student Full Name: Aditi Raghuwanshi, Pratik Chaudhari
- */
 package com.example.hw05;
 
 import androidx.appcompat.app.AppCompatActivity;

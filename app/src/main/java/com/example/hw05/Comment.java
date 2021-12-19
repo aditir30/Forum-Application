@@ -1,8 +1,3 @@
-/*
- Assignment : HW 05
- File Name : Comment.java
- Student Full Name: Aditi Raghuwanshi, Pratik Chaudhari
- */
 package com.example.hw05;
 
 import com.google.firebase.Timestamp;

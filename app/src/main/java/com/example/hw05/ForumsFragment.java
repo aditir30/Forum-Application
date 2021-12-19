@@ -1,8 +1,3 @@
-/*
- Assignment : HW 05
- File Name : ForumsFragment.java
- Student Full Name: Aditi Raghuwanshi, Pratik Chaudhari
- */
 package com.example.hw05;
 
 import android.content.Context;

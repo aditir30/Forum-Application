@@ -1,9 +1,3 @@
-/*
- * Assignment : HW05
- * File Name : LoginFragment.java
- * Student Full Name : Aditi Anil Raghuwanshi, Pratik Nikhil Chaudhari
- */
-
 package com.example.hw05;
 
 import android.app.AlertDialog;
